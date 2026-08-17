@@ -3,5 +3,5 @@ function tenTimes(number){
     return result;
 }
 tenTimes(5);
-const output = tenTimes(5);
+const output = tenimes(5);
 console.log("output", output);

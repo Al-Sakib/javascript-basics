@@ -5,10 +5,3 @@ for(const num of numbers ){
     console.log(num);
 }
 
-
-//While-Loop
-let num = 1;
-while(num <= 10){
-    console.log(num);
-    num++;
-}

@@ -5,4 +5,4 @@ for(let i=1; i<=20; i++){
         //console.log("Total is", total);
     }
 }
-        console.log("Total of the numbers is", total);
+     console.log("Total of the numbers is", total);

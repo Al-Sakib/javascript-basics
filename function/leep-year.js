@@ -12,4 +12,4 @@ function isLeepYear(year){
     }
 }
 const isLeep = isLeepYear(2100);
-console.log(isLeep);
+console.log(isLeep); 
